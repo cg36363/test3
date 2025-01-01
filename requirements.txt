@@ -1,0 +1,9 @@
+pandas
+yfinance
+ta
+sklearn
+matplotlib
+plotly
+streamlit
+requests
+textblob
